@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @StuvaScript
-- 👀 I’m interested in ... music production, brewing beer, and outer space
-- 🌱 I’m currently learning ... The holy trinity languages of HTML, CSS, and JavaScript
-- 💞️ I’m looking to collaborate on ... not sure...
-- 📫 How to reach me ... I guess shoot me a message on here?
-
-<!---
-StuvaScript/StuvaScript is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hey there! I'm a motivated and passionate learner who is currently studying HTML, CSS, and JavaScript to pursue a career in web development. I'v been actively learning and practicing coding skills through The Odin Project. I'm also excited to learn about other front-end technologies such as React, SASS, and Bootstrap to enhance my skills and stay up-to-date with the latest web development trends!
