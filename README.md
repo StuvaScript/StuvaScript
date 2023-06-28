@@ -1,3 +1,7 @@
 Hey there, I'm Stu! 
 
-I enjoy shredding the strings of my guitar, sipping on fine Belgian beer, and climbing at the local rock gyms. I'm also a motivated and passionate learner who is currently studying HTML, CSS, and JavaScript to pursue a career in web development. Since January 2022 I'v been actively learning and practicing coding skills through The Odin Project. I've also been studying a little bit of web design using WordPress. I'm excited to learn about other front-end technologies such as React, SASS, and Bootstrap to enhance my skills and stay up-to-date with the latest web development trends!
+Trading in my work boots for a comfy chair, I made the career jump from the brewing industry to embark on a new journey into the world of technology.
+
+With a strong desire to learn and an unwavering self-driven attitude, I'm currently teaching myself different front end tools & technologies such as HTML, CSS, and JavaScript. I also actively participate in several web developer groups within the vibrant tech community here in Portland, OR.
+
+In my free time, I enjoy creating music, indulging in fine Belgian beer, and honing my skills at the local rock climbing gym.
