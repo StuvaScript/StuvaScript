@@ -3,7 +3,7 @@
                         <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
             </a>
 </div>
-Hey there, I'm Stu! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcno4Nml1MjlsMjJidXAzZXVmeTB6YnM1cG44dm15NW9mZGhuY3RiaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/26DN2hUeMwRd2P1o4/giphy.gif" width="40px">
+Hey there, I'm Stu! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcno4Nml1MjlsMjJidXAzZXVmeTB6YnM1cG44dm15NW9mZGhuY3RiaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/26DN2hUeMwRd2P1o4/giphy.gif" width="20px"/>
 
 Trading in my work boots for a comfy chair, I made the career jump from the brewing industry to embark on a new journey into the world of technology.
 
