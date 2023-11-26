@@ -8,7 +8,6 @@ In my free time, I enjoy creating music, indulging in fine Belgian beer, and hon
 
 <div>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40px" height="40px"/>
-
-     </div>     
+</div>     
 
 <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
