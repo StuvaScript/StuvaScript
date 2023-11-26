@@ -3,7 +3,7 @@
                         <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
             </a>
 </div>
-Hey there, I'm Stu! <iframe src="https://giphy.com/embed/26DN2hUeMwRd2P1o4" width="480" height="381" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dog-pizza-26DN2hUeMwRd2P1o4">via GIPHY</a></p>
+Hey there, I'm Stu! <a href="https://giphy.com/gifs/dog-pizza-26DN2hUeMwRd2P1o4">via GIPHY</a>
 
 Trading in my work boots for a comfy chair, I made the career jump from the brewing industry to embark on a new journey into the world of technology.
 
