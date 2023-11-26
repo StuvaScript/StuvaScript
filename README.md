@@ -7,7 +7,8 @@ As an autodidact, I have a real hunger for picking up different front-end tools 
 In my free time, I enjoy creating music, indulging in fine Belgian beer, and honing my skills at the local rock climbing gym.
 
 <div>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40px" height="40px"/>
+
      </div>     
 
 <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
