@@ -1,3 +1,4 @@
+<html>
 Hey there, I'm Stu! 
 
 Trading in my work boots for a comfy chair, I made the career jump from the brewing industry to embark on a new journey into the world of technology.
@@ -18,3 +19,4 @@ In my free time, I enjoy creating music, indulging in fine Belgian beer, and hon
 </div>     
 
 <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
+</html>
