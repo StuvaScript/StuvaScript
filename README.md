@@ -6,8 +6,15 @@
                         </a>
             </div>
             <h1>Hey there, I'm Stu!</h1> 
-            (he/him)
 </div>
+## Who I am:
+```
+const stu = {
+            pronouns: "he" | "him",
+            location: "Portland, OR",
+            education: "The Odin Project"
+}
+```
 
 Trading in my work boots for a comfy chair, I made the career jump from the brewing industry to embark on a new journey into the world of technology.
 
