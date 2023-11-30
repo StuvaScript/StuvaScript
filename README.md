@@ -39,4 +39,8 @@ In my free time, I enjoy creating music, indulging in fine Belgian beer, and hon
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" title="ES Lint" alt="es lint" width="40px" height="40px"/>
 </div>            
 
+---
+
 <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
+
+---
