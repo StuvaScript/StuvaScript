@@ -8,10 +8,7 @@
             <h1>Hey there, I'm Stu!</h1> 
 </div>
 
-<details>
-<summary>
-<h3>Who I am:</h3>
-</summary>
+### Who am I:
 
 ```javascript
 const stu = {
@@ -47,5 +44,3 @@ In my free time, I enjoy creating music, indulging in fine Belgian beer, and hon
 <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
 
 ---
-
-</details>
