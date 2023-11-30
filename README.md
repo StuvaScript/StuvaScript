@@ -42,9 +42,7 @@ In my free time, I enjoy creating music, indulging in fine Belgian beer, and hon
 ---
 
 ### Don't leave without a joke! 
-<span align="center">
-            <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDRtMmZ4MWEyeWMxYXpnNWwzYmRmNWl4MDdzaDNyaDhmY3poN2d1NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KZN7uGCLklxQhvzwAg/giphy.gif" width="60px"/>
-</span>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDRtMmZ4MWEyeWMxYXpnNWwzYmRmNWl4MDdzaDNyaDhmY3poN2d1NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KZN7uGCLklxQhvzwAg/giphy.gif" width="60px"/>
 <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
 
 ---
