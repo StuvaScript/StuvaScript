@@ -5,9 +5,7 @@
                                     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
                         </a>
                         <br>
-                        
-                        <p>Check out [my portfolio site](https://stuvascript.github.io/portfolio/)</p>
-                        
+                       Check out [my portfolio site](https://stuvascript.github.io/portfolio/)
             </div>
             <h1>Hey there, I'm Stu!</h1> 
 </div>
