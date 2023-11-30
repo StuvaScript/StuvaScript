@@ -6,9 +6,12 @@
                         </a>
                         <br>
                         
-                       Check out [my portfolio site](https://stuvascript.github.io/portfolio/)
+                       
                        
             </div>
+
+Check out [my portfolio site](https://stuvascript.github.io/portfolio/)
+            
             <h1>Hey there, I'm Stu!</h1> 
 </div>
 
