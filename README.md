@@ -40,7 +40,6 @@ In my free time, I enjoy creating music, indulging in fine Belgian beer, and hon
 </div>  
 
 <br>
-<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StuvaScript)](https://github.com/StuvaScript/github-readme-stats)
 
