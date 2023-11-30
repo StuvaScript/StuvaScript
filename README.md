@@ -16,7 +16,7 @@ const stu = {
             pronouns: "he" | "him",
             location: "Portland, OR",
             education: "The Odin Project"
-            playInMyFreeTime() {
+            playInMyFreeTime: function() {
                         return { creatingMusic, belgianBeer, climbingGym };
             }
 }
