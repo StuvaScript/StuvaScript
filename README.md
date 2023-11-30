@@ -8,6 +8,7 @@
             <h1>Hey there, I'm Stu!</h1> 
 </div>
 ## Who I am:
+
 ```
 const stu = {
             pronouns: "he" | "him",
