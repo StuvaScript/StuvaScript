@@ -29,7 +29,7 @@ In my free time, I enjoy creating music, indulging in fine Belgian beer, and hon
 ### Tools & Technologies:
 
 <div>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="60px" height="60px"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="60px"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title="HTML" alt="html" width="60px" height="60px"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title="CSS" alt="css" width="60px" height="60px"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="node.js" alt="node.js" width="60px" height="60px"/>
@@ -41,7 +41,7 @@ In my free time, I enjoy creating music, indulging in fine Belgian beer, and hon
 
 ---
 
-### Don't leave without a joke! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDRtMmZ4MWEyeWMxYXpnNWwzYmRmNWl4MDdzaDNyaDhmY3poN2d1NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KZN7uGCLklxQhvzwAg/giphy.gif"/>
+### Don't leave without a joke! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDRtMmZ4MWEyeWMxYXpnNWwzYmRmNWl4MDdzaDNyaDhmY3poN2d1NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KZN7uGCLklxQhvzwAg/giphy.gif" width="20px"/>
 
 <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
 
