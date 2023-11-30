@@ -1,9 +1,10 @@
 <div>
+            <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTh5MmFramZnb2w3MGZ0bXgwbDExd3R5bmk5cGhtN2p3N3c4dW1raSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" width="200px"/>
             <a href="https://www.linkedin.com/in/stu-macleod/">
                         <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
             </a>
 </div>
-Hey there, I'm Stu! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTh5MmFramZnb2w3MGZ0bXgwbDExd3R5bmk5cGhtN2p3N3c4dW1raSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" width="200px"/>
+Hey there, I'm Stu! 
 
 Trading in my work boots for a comfy chair, I made the career jump from the brewing industry to embark on a new journey into the world of technology.
 
