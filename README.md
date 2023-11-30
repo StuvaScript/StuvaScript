@@ -31,17 +31,18 @@ In my free time, I enjoy creating music, indulging in fine Belgian beer, and hon
 <div>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="60px"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title="HTML" alt="html" width="60px"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title="CSS" alt="css" width="60px" height="60px"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="node.js" alt="node.js" width="60px" height="60px"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" title="Webpack" alt="webpack" width="60px" height="60px"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="vs code" width="60px" height="60px"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="github" width="60px" height="60px"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" title="ES Lint" alt="es lint" width="60px" height="60px"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title="CSS" alt="css" width="60px"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="node.js" alt="node.js" width="60px"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" title="Webpack" alt="webpack" width="60px"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="vs code" width="60px"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="github" width="60px"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" title="ES Lint" alt="es lint" width="60px"/>
 </div>            
 
 ---
 
 ### Don't leave without a joke! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDRtMmZ4MWEyeWMxYXpnNWwzYmRmNWl4MDdzaDNyaDhmY3poN2d1NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KZN7uGCLklxQhvzwAg/giphy.gif" width="40px"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnc1OWd4MWNhZ3RlbW50djU2YThtcDZlY284c2hwajU0NTEzcjM3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Bw0ZG4t04gQ2u7EYrE/giphy.gif" width="40px"/>
 
 <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
 
