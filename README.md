@@ -7,7 +7,7 @@
                         <br>
                         <p>Check out <a href="https://stuvascript.github.io/portfolio/">my portfolio site</a></p>     
             </div>
-            <br>
+            
             <h1>Hey there, I'm Stu!</h1> 
             
 </div>
