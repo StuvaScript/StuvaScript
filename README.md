@@ -17,13 +17,13 @@ const stu = {
             education: "The Odin Project"
 }
 ```
-<pre>
-  Trading in my work boots for a comfy chair, I made the career jump from the brewing industry to embark on a new journey into the world of technology.
 
-  As an autodidact, I have a real hunger for picking up different front-end tools & technologies. You'll find me in the mix of Portland's vibrant tech scene participating in various web dev groups. I'm all about collaboration and communication and I'm ready to dive in, bring my positive energy, and keep growing in this dynamic field! 
+Trading in my work boots for a comfy chair, I made the career jump from the brewing industry to embark on a new journey into the world of technology.
 
-  In my free time, I enjoy creating music, indulging in fine Belgian beer, and honing my skills at the local rock climbing gym.
-</pre>
+As an autodidact, I have a real hunger for picking up different front-end tools & technologies. You'll find me in the mix of Portland's vibrant tech scene participating in various web dev groups. I'm all about collaboration and communication and I'm ready to dive in, bring my positive energy, and keep growing in this dynamic field! 
+
+In my free time, I enjoy creating music, indulging in fine Belgian beer, and honing my skills at the local rock climbing gym.
+
 ---
 
 ### Tools & Technologies:
@@ -38,7 +38,10 @@ const stu = {
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="github" width="60px"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" title="ES Lint" alt="es lint" width="60px"/>
 </div>  
+
 <br>
+<br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StuvaScript)](https://github.com/StuvaScript/github-readme-stats)
 
 
