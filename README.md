@@ -1,10 +1,11 @@
 <div align="center">
             <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTh5MmFramZnb2w3MGZ0bXgwbDExd3R5bmk5cGhtN2p3N3c4dW1raSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" width="200px"/>
+            <div>
             <a href="https://www.linkedin.com/in/stu-macleod/">
                         <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
             </a>
-
-Hey there, I'm Stu! 
+            </div>
+<h1>Hey there, I'm Stu!</h1> 
 </div>
 ---
 
