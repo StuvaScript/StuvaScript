@@ -12,13 +12,9 @@
 
 ```javascript
 const stu = {
-            cyborgName: `${tu}`,
             pronouns: "he" | "him",
             location: "Portland, OR",
             education: "The Odin Project"
-            playInMyFreeTime: function() {
-                        return { creatingMusic, belgianBeer, climbingGym };
-            }
 }
 ```
 
