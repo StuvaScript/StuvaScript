@@ -39,6 +39,7 @@ In my free time, I enjoy creating music, indulging in fine Belgian beer, and hon
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" title="ES Lint" alt="es lint" width="60px"/>
 </div>            
 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StuvaScript)](https://github.com/StuvaScript/github-readme-stats)
 
 ---
