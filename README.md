@@ -26,6 +26,8 @@ In my free time, I enjoy creating music, indulging in fine Belgian beer, and hon
 
 ---
 
+## Tools & Technologies:
+
 <div>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="40px" height="40px"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title="HTML" alt="html" width="40px" height="40px"/>
