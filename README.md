@@ -39,6 +39,8 @@ In my free time, I enjoy creating music, indulging in fine Belgian beer, and hon
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" title="ES Lint" alt="es lint" width="60px"/>
 </div>            
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StuvaScript)](https://github.com/StuvaScript/github-readme-stats)
+
 ---
 
 ### Don't leave without a joke! <img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDRtMmZ4MWEyeWMxYXpnNWwzYmRmNWl4MDdzaDNyaDhmY3poN2d1NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KZN7uGCLklxQhvzwAg/giphy.gif" width="60px"/>
