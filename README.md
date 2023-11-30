@@ -8,7 +8,7 @@
             <h1>Hey there, I'm Stu!</h1> 
 </div>
 
-## Who I am:
+### Who I am:
 
 ```javascript
 const stu = {
@@ -26,7 +26,7 @@ In my free time, I enjoy creating music, indulging in fine Belgian beer, and hon
 
 ---
 
-## Tools & Technologies:
+### Tools & Technologies:
 
 <div>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="40px" height="40px"/>
