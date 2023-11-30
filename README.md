@@ -7,9 +7,10 @@
             </div>
             <h1>Hey there, I'm Stu!</h1> 
 </div>
+
 ## Who I am:
 
-```
+```javascript
 const stu = {
             pronouns: "he" | "him",
             location: "Portland, OR",
