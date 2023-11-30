@@ -41,6 +41,8 @@ In my free time, I enjoy creating music, indulging in fine Belgian beer, and hon
 
 ---
 
+### Don't leave without a joke 😃:
+
 <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
 
 ---
