@@ -17,7 +17,7 @@
 
 ```javascript
 const stu = {
-            pronouns: "he" | "him",
+            pronouns: "he" || "him",
             location: "Portland, OR",
             education: "The Odin Project"
 }
