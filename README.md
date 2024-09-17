@@ -19,7 +19,7 @@
 const stu = {
             pronouns: "he" || "him",
             location: "Portland, OR",
-            education: "The Odin Project"
+            education: ["The Odin Project", "Code the Dream"]
 }
 ```
 
