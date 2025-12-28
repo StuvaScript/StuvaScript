@@ -23,11 +23,11 @@ const stu = {
 }
 ```
 
-&nbsp;&nbsp;Trading in my work boots for a comfy chair, I made the career jump from the brewing industry to embark on a new journey into the world of technology.
+&nbsp;&nbsp;From IPA’s to API’s, I made the jump from the brewing industry into full-stack web development with a curiosity-driven, hands-on approach to learning.
 
-&nbsp;&nbsp;As an autodidact, I have a real hunger for picking up different front-end tools & technologies. You'll find me in the mix of Portland's vibrant tech scene participating in various web dev groups. I'm all about collaboration and communication and I'm ready to dive in, bring my positive energy, and keep growing in this dynamic field! 
+&nbsp;&nbsp;I’m a self-taught developer with a strong appetite for picking up new tools and technologies, and you’ll often find me plugged into Portland’s Silicon Forest tech community through local web dev groups. I enjoy working with others, keeping communication clear and constructive, and building things thoughtfully. I’m always eager to keep growing in this fast-moving field.
 
-&nbsp;&nbsp;In my free time, I enjoy creating music, indulging in fine Belgian beer, and honing my skills at the local rock climbing gym.
+&nbsp;&nbsp; Outside of coding, I enjoy making music, relaxing by the river, and challenging myself at the local rock climbing gym.
 
 ---
 
