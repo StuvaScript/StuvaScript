@@ -23,11 +23,11 @@ const stu = {
 }
 ```
 
-&nbsp;&nbsp;From IPA’s to API’s, I made the jump from the brewing industry into full-stack web development with a curiosity-driven, hands-on approach to learning.
+From IPA’s to API’s, I made the jump from the brewing industry into full-stack web development with a curiosity-driven, hands-on approach to learning.
 
-&nbsp;&nbsp;I’m a self-taught developer with a strong appetite for picking up new tools and technologies, and you’ll often find me plugged into Portland’s Silicon Forest tech community through local web dev groups. I enjoy working with others, keeping communication clear and constructive, and building things thoughtfully. I’m always eager to keep growing in this fast-moving field.
+I’m a self-taught developer with a strong appetite for picking up new tools and technologies, and you’ll often find me plugged into Portland’s Silicon Forest tech community through local web dev groups. I enjoy working with others, keeping communication clear and constructive, and building things thoughtfully. I’m always eager to keep growing in this fast-moving field.
 
-&nbsp;&nbsp; Outside of coding, I enjoy making music, relaxing by the river, and challenging myself at the local rock climbing gym.
+Outside of coding, I enjoy making music, relaxing by the river, and challenging myself at the local rock climbing gym.
 
 ---
 
