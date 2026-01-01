@@ -17,10 +17,10 @@
 
 ```javascript
 const stu = {
-            pronouns: "he" || "him",
-            location: "Portland, OR",
-            education: ["The Odin Project", "Code the Dream"]
-}
+  pronouns: "he" || "him",
+  location: "Portland, OR",
+  education: ["The Odin Project", "Code the Dream"],
+};
 ```
 
 From IPA’s to API’s, I made the jump from the brewing industry into full-stack web development with a curiosity-driven, hands-on approach to learning.
@@ -32,6 +32,14 @@ Outside of coding, I enjoy making music, relaxing by the river, and challenging 
 ---
 
 ### Tools & Technologies:
+
+<!-- Icons are from: -->
+
+<!-- github.com/simple-icons/simple-icons using the npm package "simple-icons" -->
+<!-- simpleicons.org -->
+<!-- devicon.dev -->
+<!-- github.com/marwin1991/profile-technology-icons -->
+<!-- ./icons folder -->
 
 <div>
   <h4>Core Web</h4>
@@ -47,7 +55,7 @@ Outside of coding, I enjoy making music, relaxing by the river, and challenging 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="react" width="60px"/>
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" title="Next.js" alt="nextjs" width="60px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" title="Jest" alt="jest" width="60px"/>
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/testinglibrary.svg" alt="Testing Library" width="60"/>
+    <img src="https://cdn.simpleicons.org/testinglibrary"  title="Testing Library" alt="Testing Library" width="60"/>
 
   </div>
   
@@ -59,19 +67,18 @@ Outside of coding, I enjoy making music, relaxing by the river, and challenging 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" title="Mongoose" alt="mongoose" width="60px"/>
   </div>
   
-  <h4>Tooling</h4>
+  <h4>Build & Dev Tools</h4>
   <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="60px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" title="Webpack" alt="webpack" width="60px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" title="ESLint" alt="eslint" width="60px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prettier/prettier-original.svg" title="Prettier" alt="prettier" width="60px"/>
-  </div>
-  
-  <h4>Dev Tools</h4>
-  <div>
+    <img src="./icons/Prettier--Streamline-Svg-Logos.svg" title="Prettier" alt="prettier" width="60px"/>
+    <br/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" title="Vite" alt="vite" width="60px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="vscode" width="60px"/>
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" title="GitHub" alt="github" width="60px"/>
+    <img src="https://cdn.simpleicons.org/github/666" title="GitHub" alt="github" width="60px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" title="Chrome DevTools" alt="chrome devtools" width="60px"/>
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" title="Postman" alt="postman" width="60px"/>
   </div>
   
   <h4>CMS</h4>
@@ -85,4 +92,5 @@ Outside of coding, I enjoy making music, relaxing by the river, and challenging 
 ---
 
 ### Don't leave without a joke! <img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDRtMmZ4MWEyeWMxYXpnNWwzYmRmNWl4MDdzaDNyaDhmY3poN2d1NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KZN7uGCLklxQhvzwAg/giphy.gif" width="60px"/>
+
 <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />

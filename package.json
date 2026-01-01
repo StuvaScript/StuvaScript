@@ -1,0 +1,24 @@
+{
+  "name": "stuvascript",
+  "version": "1.0.0",
+  "description": "GitHub profile readme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StuvaScript/StuvaScript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/StuvaScript/StuvaScript/issues"
+  },
+  "homepage": "https://github.com/StuvaScript/StuvaScript#readme",
+  "dependencies": {
+    "simple-icons": "^16.3.0"
+  }
+}
