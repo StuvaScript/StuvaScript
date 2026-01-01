@@ -85,7 +85,7 @@ Outside of coding, I enjoy making music, relaxing by the river, and challenging 
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/wordpress.png" title="WordPress" alt="wordpress" width="60px"/>
   </div>
 </div>
-
+<hr/>
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=StuvaScript&layout=compact&theme=shadow_blue">
 
 ---
