@@ -86,7 +86,8 @@ Outside of coding, I enjoy making music, relaxing by the river, and challenging 
   </div>
 </div>
 <hr/>
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=StuvaScript&layout=compact&theme=shadow_blue">
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=StuvaScript&layout=compact&langs_count=4&theme=tokyonight&hide_border=true">
 
 ---
 
