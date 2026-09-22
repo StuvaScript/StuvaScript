@@ -23,11 +23,13 @@ const stu = {
 };
 ```
 
-From IPA’s to API’s, I made the jump from the brewing industry into full-stack web development with a curiosity-driven, hands-on approach to learning.
-
-I’m a self-taught developer with a strong appetite for picking up new tools and technologies, and you’ll often find me plugged into Portland’s Silicon Forest tech community through local web dev groups. I enjoy working with others, keeping communication clear and constructive, and building things thoughtfully. I’m always eager to keep growing in this fast-moving field.
-
-Outside of coding, I enjoy making music, relaxing by the river, and challenging myself at the local rock climbing gym.
+From IPA’s to API’s, I made the jump from the brewing industry into tech with a curiosity-driven, hands-on approach to learning.
+  
+I’m a collaborative Full Stack Web Developer with 4 years of experience building and shipping web applications using React, Node.js, and MongoDB. I have a proven track record contributing to production codebases, mentoring junior developers, and delivering full-stack features from design to deployment. I'm also experienced in working across the stack with modern JavaScript and TypeScript development in Agile environments.
+ 
+Always eager to keep growing, I enjoy working with others, keeping communication clear and constructive, and building things thoughtfully. You can find me plugged into Portland’s Silicon Forest tech community through local coding groups.
+ 
+In my free time, I enjoy making music, relaxing by the river, baking bread, and challenging myself at the local rock climbing gym.
 
 ---
 
